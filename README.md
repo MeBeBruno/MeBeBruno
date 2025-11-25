@@ -13,6 +13,10 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 
 ---
 
+<p align="center"><a href="https://mebebruno.github.io/MeBeBruno/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2)" height="24rem"/></a></p>
+
+---
+
 ## 🛠 Tech Arsenal
 <div>
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40"/></a>
