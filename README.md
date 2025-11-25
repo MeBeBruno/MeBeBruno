@@ -26,4 +26,4 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 
 ---
 
-<p align="center">✨ <img src="https://img.shields.io/badge/Still%20improving%20this%20profile-8A2BE2)" height="1rem"/> ✨</p>
+<p align="center">✨ <img src="https://img.shields.io/badge/Still%20improving%20this%20profile-8A2BE2)" height="10rem"/> ✨</p>
