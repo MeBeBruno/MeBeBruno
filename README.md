@@ -14,8 +14,8 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 ## 🔗 Sites
 
 <p align="center">
-  <a href="https://mebebruno.github.io/MeBeBruno/"><img src="https://img.shields.io/badge/Portfolio-blue" height="24rem"/></a>
-  <a href="https://mebebruno.github.io/Notes/"><img src="https://img.shields.io/badge/Notes-magenta" height="24rem"/></a>
+  <a href="https://mebebruno.github.io/MeBeBruno/"><img src="https://img.shields.io/badge/Portfolio-00b6c4" height="24rem"/></a>
+  <a href="https://mebebruno.github.io/Notes/"><img src="https://img.shields.io/badge/Notes-cf75dd" height="24rem"/></a>
 </p>
 
 ---
@@ -33,4 +33,4 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 
 ---
 
-<p align="center"><a href="https://github.com/MeBeBruno/MeBeBruno/"><img src="https://img.shields.io/badge/Still%20improving%20this%20profile-ed913e" height="24rem"/></a></p>
+<p align="center"><a href="https://github.com/MeBeBruno/MeBeBruno/"><img src="https://img.shields.io/badge/Still%20improving%20this%20profile-df8800" height="24rem"/></a></p>
