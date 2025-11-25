@@ -8,11 +8,11 @@ _Some space to add fancy UI elements from [shields.io](shields.io) in the future
 
 ###
 
-<h1 align="center">Hey</h1>
+<h1 align="center">Hey there!</h1>
 
 ###
 
-<h3 align="left">Bruno</h3>
+<h3 align="left">😝 Bruno</h3>
 
 ###
 
