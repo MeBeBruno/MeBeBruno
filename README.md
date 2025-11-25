@@ -33,4 +33,4 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 
 ---
 
-<p align="center"><a href="https://github.com/MeBeBruno/MeBeBruno/"><img src="https://img.shields.io/badge/Still%20improving%20this%20profile-faae4a" height="24rem"/></a></p>
+<p align="center"><a href="https://github.com/MeBeBruno/MeBeBruno/"><img src="https://img.shields.io/badge/Still%20improving%20this%20profile-ed913e" height="24rem"/></a></p>
