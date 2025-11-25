@@ -1,15 +1,15 @@
 <div align="center">
   <img height="150" src="./assets/img/weckmann-cutout-lowres.png" alt="Weckmann" />
-  <h1>Welcome, traveler of the digital realms 🍞⚔️</h1>
+  <h1>Welcome, my friend</h1>
 </div>
 
 ## 😝 About me
-Hey, I'm **Bruno** — 15y/o, Germany-based,  
-currently grinding XP in the skill tree called *Computer Science*.
+Hey, I'm **Bruno** — 15y/o, Germany-based.
+My interests are spread very vastly, spanning from STEM <🧪>, to music, entertainment, etc. <🎵>
 
-- 🎯 Leveling up: **Java**
-- 🧩 Enjoying: full-stack dev, scripting, Linux, random side-projects
-- ⚡ Fun fact: I break things so I can fix them better  
+- 🎯 Currently learning: **Java**
+- 🧩 Enjoying: full-stack dev, scripting, and a whole lotta random side-projects
+- ⚡ Fun fact: _Yet to come&hellip;_
 
 ---
 
