@@ -4,7 +4,7 @@
 </div>
 
 ## 😝 About me
-Hey, I'm **Bruno** — 15y/o, Germany-based.
+Hey, I'm **Bruno**&mdash;15y/o, Germany-based.
 My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, entertainment, etc.
 
 - 🎯 Currently learning: **Java**
