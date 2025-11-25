@@ -21,7 +21,7 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 ---
 
 ## 🛠 Tech Arsenal
-<div>
+<div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40"/></a>
   <img width="12"/>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40"/></a>
