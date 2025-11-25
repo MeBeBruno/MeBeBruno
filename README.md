@@ -11,9 +11,12 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 - 🧩 Enjoying: full-stack dev, scripting, and a whole lotta random side-projects
 - ⚡ Fun fact: _Yet to come&hellip;_
 
----
+## 🔗 Sites
 
-<p align="center"><a href="https://mebebruno.github.io/MeBeBruno/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2)" height="24rem"/></a></p>
+<p align="center">
+  <a href="https://mebebruno.github.io/MeBeBruno/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2)" height="24rem"/></a>
+  <a href="https://mebebruno.github.io/Notes/"><img src="https://img.shields.io/badge/Notes-8A2BE2)" height="24rem"/></a>
+</p>
 
 ---
 
