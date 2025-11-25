@@ -41,7 +41,7 @@ _Some space to add fancy UI elements from [shields.io](shields.io) in the future
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MeBeBruno&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph"  />
+  ![](https://streak-stats.demolab.com?user=MeBeBruno&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 </div>
 
 ###
