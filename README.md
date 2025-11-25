@@ -41,7 +41,7 @@ _Some space to add fancy UI elements from [shields.io](shields.io) in the future
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=MeBeBruno)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 </div>
 
 ###
