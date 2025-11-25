@@ -5,7 +5,7 @@
 
 ## 😝 About me
 Hey, I'm **Bruno** — 15y/o, Germany-based.
-My interests are spread very vastly, spanning from STEM <🧪>, to music, entertainment, etc. <🎵>
+My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, entertainment, etc.
 
 - 🎯 Currently learning: **Java**
 - 🧩 Enjoying: full-stack dev, scripting, and a whole lotta random side-projects
