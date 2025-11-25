@@ -35,13 +35,3 @@ _Some space to add fancy UI elements from [shields.io](shields.io) in the future
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
-</div>
-
-###
