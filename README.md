@@ -15,7 +15,6 @@ My interests are spread very vastly, spanning from STEM 🧪, to music 🎵, ent
 
 <p align="center">
   <a href="https://mebebruno.github.io/MeBeBruno/"><img src="https://img.shields.io/badge/Portfolio-00b6c4" height="24rem"/></a>
-  <a href="https://mebebruno.github.io/Notes/"><img src="https://img.shields.io/badge/Notes-cf75dd" height="24rem"/></a>
   <br>
   <a href="https://github.com/MeBeBruno?tab=repositories" style="text-align: center;"><img style="text-align: center;" src="https://img.shields.io/badge/📦%20Repositories-010409" height="24rem"/></a>
 </p>
